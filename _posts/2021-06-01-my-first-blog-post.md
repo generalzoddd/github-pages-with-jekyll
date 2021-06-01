@@ -1,2 +1,4 @@
-title: hello-life
-This is a sample draft
+---
+title: "MY-LIFE"
+date: 2021-06-01
+---
